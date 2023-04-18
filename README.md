@@ -1,6 +1,5 @@
 # README.md
-# README.md
-
+---
 ## 쉽고 빠른 Go 시작하기 : study code
 
 ✅ URL: [https://nomadcoders.co/go-for-beginners/lobby](https://nomadcoders.co/go-for-beginners/lobby)
