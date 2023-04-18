@@ -28,8 +28,7 @@ go version go1.20.3 windows/amd64
 // 1. echo
 go get github.com/labstack/echo/v4
 
-// 2. goquery => https://github.com/PuerkitoBio/goquery
- - docs => https://pkg.go.dev/github.com/PuerkitoBio/goquery
+// 2. goquery 
 
 go get github.com/PuerkitoBio/goquery
 ```
